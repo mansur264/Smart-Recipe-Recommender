@@ -24,8 +24,7 @@ This system is a standalone application with a MySQL backend. It is intended for
 2.3 Operating Environment
 •	Programming Language: Java (JDBC)
 •	Database: MySQL
-•	Tools: MySQL Workbench, Eclipse/IntelliJ IDEA
-•	OS: Platform-independent (Windows/Linux/Mac)
+•	Tools: MySQL 
 2.4 Constraints
 •	Requires MySQL connection.
 •	Users must input ingredients correctly.
