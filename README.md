@@ -1,7 +1,6 @@
 Software Requirement Specification (SRS)
 Project Title: Smart Recipe Recommender
 Prepared By: [Mansur Ansari]
-Date: [Insert Date ]
 ________________________________________
 1. Introduction
 1.1 Purpose
