@@ -11,7 +11,7 @@ Features
  
 User Module
 
-User Signup & Login
+User Signup & Login 
 Search recipes by ingredients
 View detailed recipe instructions (ingredients, steps, cooking time)
 Save recipes to favorites
