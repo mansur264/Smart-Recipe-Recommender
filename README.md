@@ -6,9 +6,9 @@ The Smart Recipe Recommender System is a Java-based project designed to help stu
 By entering the ingredients they have, users can quickly find recipes they can prepare, along with detailed instructions.
 
 This system uses Java for the frontend and backend, and MySQL as the database.
-
-Features
- 
+  
+Features 
+  
 User Module
 
 User Signup & Login 
@@ -24,7 +24,7 @@ Update existing recipes
 Delete recipes
 Manage users (optional feature)
 
-Tech Stack
+Tech Stack 
 
 Programming Language: Java
 Frontend (UI): Java Swing
