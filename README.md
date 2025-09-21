@@ -1,4 +1,4 @@
-Smart Recipe Recommender System
+**Smart Recipe Recommender System**
 
 Project Overview
 
