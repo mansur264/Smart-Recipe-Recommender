@@ -41,7 +41,7 @@ View suggested recipes with preparation steps and cooking time.
 Save favorite recipes for future use.
 Admin users can add, update, or delete recipes.
 
-_OOP Concepts Used_
+__OOP Concepts Used__
 
 Encapsulation: User, Recipe, and Admin classes with private fields and getters/setters.
 Inheritance: Admin and User inherit common features from a base class (e.g., Person).
