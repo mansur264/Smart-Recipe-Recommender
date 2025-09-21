@@ -24,7 +24,7 @@ Update existing recipes
 Delete recipes
 Manage users (optional feature)
 
-Tech Stack 
+Tech Stack  
 
 Programming Language: Java
 Frontend (UI): Java Swing
