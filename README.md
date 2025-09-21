@@ -19,7 +19,7 @@ Get personalized recipe recommendations
 
 Admin Module
  
-Add new recipes
+Add new recipes 
 Update existing recipes
 Delete recipes
 Manage users (optional feature)
