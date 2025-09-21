@@ -7,7 +7,7 @@ By entering the ingredients they have, users can quickly find recipes they can p
 
 This system uses Java for the frontend and backend, and MySQL as the database.
 
-Features
+Features 
  
 User Module
 
